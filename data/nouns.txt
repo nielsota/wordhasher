@@ -1,0 +1,31 @@
+# English nouns
+cat
+tree
+book
+river
+mountain
+cloud
+pencil
+guitar
+
+# French nouns
+chat
+arbre
+livre
+rivière
+montagne
+nuage
+crayon
+guitare
+
+# Dutch nouns
+kat
+boom
+boek
+rivier
+berg
+wolk
+potlood
+gitaar
+
+# ... (add more nouns as needed)
